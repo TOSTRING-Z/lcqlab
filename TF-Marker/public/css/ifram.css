@@ -1,0 +1,155 @@
+html {
+    overflow: auto;
+    width: 98%;
+}
+body {
+    height: 400px;
+}
+table {
+    min-width: calc(98vw - 3px);
+}
+
+.top.row {
+    position: relative;
+}
+
+.dropdown {
+    font-weight: bold;
+}
+
+.dropdown-menu {
+    padding: 0;
+}
+
+.dropdown-menu > a {
+    text-align: center;
+    display: block;
+    text-underline: none;
+    color: #333;
+    position: relative;
+    font-weight: normal;
+}
+
+.dropdown-menu > a:before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    height: 1px;
+    width: 100%;
+    background: #f0f0f0;
+}
+
+.dropdown-menu > a:last-child:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    height: 0;
+    width: 0;
+}
+
+.dropdown-menu a:focus, .dropdown-menu a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: #676a6f;
+}
+
+.loading {
+    position: absolute;
+    top: 48%;
+    left: 48%;
+    visibility: hidden;
+    animation: rotateIn 1s linear 0s infinite alternate;
+}
+
+.loading > i {
+    font-size: 30px;
+}
+
+@-webkit-keyframes rotateIn {
+    0% {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: rotate(-200deg);
+        transform: rotate(-200deg);
+        opacity: 0;
+    }
+    100% {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+        opacity: 1;
+    }
+}
+
+svg .h:hover text {
+    display: block;
+    cursor: alias;
+}
+
+svg .h text {
+    display: none;
+}
+
+#myModal_jplot .modal-dialog {
+    height: 80%;
+    width: 100%;
+    margin: 30px auto;
+}
+
+#myModal_jplot .modal-content {
+    height: 105%;
+}
+i[class*="ri-"] {
+    font-size: 26px;
+    background-image: linear-gradient(135deg, red, yellow);
+    -webkit-background-clip: text;
+    color: transparent;
+    cursor: pointer;
+}
+
+h3 {
+    font-size: 24px;
+    position: relative;
+    top: -4px;
+    font-weight: bold;
+}
+
+h3 [class^="ri-"], h3 [class*=" ri-"] {
+    top: 5px;
+    position: relative;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+div.dataTables_wrapper div.dataTables_info {
+    padding-top: 8px;
+    white-space: nowrap;
+    display: inline-block;
+}
+.dataTables_length,div.dataTables_wrapper div.dataTables_paginate{
+    margin-top: 10px;
+}
+.dt-buttons {
+    display: inline-block;
+}
+
+i[class="ri-question-line"] {
+    font-size: 18px;
+}
+i[class='ri-folder-download-line'] {
+    font-size: 18px;
+    margin-left: 5px;
+    position: relative;
+    top:3px;
+}
+td.details-control {
+    background: url('http://www.licpathway.net/SEanalysis/img/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+
+tr.shown td.details-control {
+    background: url('http://www.licpathway.net/SEanalysis/img/details_close.png') no-repeat center center;
+}

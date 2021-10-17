@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" enable-background="new 0 0 595.28 841.89" xml:space="preserve">
+<g>
+	<path fill="#21489C" d="M96.572,381.097c0,3.221-5.932,5.831-13.247,5.831H45.056c-7.316,0-13.249-2.61-13.249-5.831v-9.554
+		c0-3.221,5.933-5.832,13.249-5.832h38.269c7.315,0,13.247,2.611,13.247,5.832V381.097z"/>
+	<text transform="matrix(0.8953 0 0 1 37.4043 381.0405)" fill="#F6E9E6" font-family="'DengXian-Bold'" font-size="11.691">TF Pmarker</text>
+</g>
+<rect x="116.431" y="369.465" fill="#C1BFBF" width="257.237" height="12.493"/>
+<text transform="matrix(1.0308 0 0 1 121.0356 378.5054)" stroke="#000000" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="10.753">the TFs are regarded as potential markers in specific cells</text>
+<g>
+	<ellipse fill="#BBD533" cx="96.039" cy="383.711" rx="6.644" ry="7.268"/>
+	
+		<text transform="matrix(0.9575 0 0 1 93.3223 387.0449)" stroke="#000000" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">4</text>
+</g>
+<g>
+	<ellipse fill="#C28CBC" cx="188.438" cy="405.262" rx="25.501" ry="8.669"/>
+	<text transform="matrix(1.0107 0 0 1 167.4536 407.7886)" fill="#F6EBE7" font-family="'DengXian-Bold'" font-size="10.559">I Marker</text>
+</g>
+<g>
+	<rect x="220.01" y="402.849" fill="#C1BFBF" width="212.333" height="12.48"/>
+	
+		<text transform="matrix(1 0 0 1 223.6772 412.8433)" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">the markers influence the activity of the TFs</text>
+</g>
+<g>
+	<ellipse fill="#BBD533" cx="208.861" cy="415.331" rx="6.939" ry="7.267"/>
+	
+		<text transform="matrix(1 0 0 1 206.0244 418.6641)" stroke="#000000" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12">5</text>
+</g>
+<g>
+	<path fill="#73C8D9" d="M101.904,435.641c0,4.377-4.592,7.927-10.256,7.927H42.064c-5.665,0-10.257-3.55-10.257-7.927v-1.543
+		c0-4.377,4.592-7.928,10.257-7.928h49.583c5.664,0,10.256,3.551,10.256,7.928V435.641z"/>
+	<text transform="matrix(0.7942 0 0 1 37.2437 438.0459)" fill="#F6EBE7" font-family="'DengXian-Bold'" font-size="11.1408">reTrans Marker</text>
+</g>
+<rect x="114.889" y="428.517" fill="#C1BFBF" width="239.666" height="14.168"/>
+<text transform="matrix(0.8037 0 0 1 120.4375 438.8301)" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="13.2875">markers associated with reverse transcription processes</text>
+<g>
+	<ellipse fill="#BBD533" cx="98.449" cy="446.502" rx="7.115" ry="7.671"/>
+	
+		<text transform="matrix(0.9716 0 0 1 95.5415 450.0225)" stroke="#000000" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="12.6661">6</text>
+</g>
+<rect x="221.719" y="456.984" fill="#C1BFBF" width="290.659" height="13.817"/>
+<text transform="matrix(0.9416 0 0 1 225.8887 465.7754)" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="11.8378">markers signatured for specific cells to TF research in experiments</text>
+<g>
+	<ellipse fill="#768BC5" cx="192.943" cy="462.356" rx="25.489" ry="11.159"/>
+	<text transform="matrix(0.9042 0 0 1 171.25 465.7754)" fill="#F6EBE7" font-family="'DengXian-Bold'" font-size="11.7345">E Marker</text>
+</g>
+<g>
+	<ellipse fill="#BBD533" cx="214.031" cy="471.747" rx="5.699" ry="6.274"/>
+	
+		<text transform="matrix(0.9512 0 0 1 211.7021 474.625)" stroke="#000000" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="10.36">7</text>
+</g>
+</svg>

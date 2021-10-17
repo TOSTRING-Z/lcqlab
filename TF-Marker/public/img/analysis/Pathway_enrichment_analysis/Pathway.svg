@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="520.281px" height="520.891px" viewBox="120 117 310 530" enable-background="new 0 0 330.281 580.891"
+	 xml:space="preserve">
+<symbol  id="箭头_3" viewBox="-11.592 -10.765 23.184 21.529">
+	<g>
+		<g>
+			<g>
+				<polygon fill="#E51F25" points="-11.592,-10.765 -2.671,0 -11.592,10.765 11.592,0 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#231815" points="-11.592,-10.765 -2.671,0 -11.592,10.765 11.592,0 				"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<rect x="-1.359" y="113.411" fill="#FFFFFF" stroke="#5D5D5D" stroke-width="2" stroke-miterlimit="10" width="597.999" height="542"/>
+<line stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="455.29" y1="581.518" x2="522.918" y2="581.518"/>
+<line stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="458.918" y1="632.813" x2="526.547" y2="632.813"/>
+<line stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="449.623" y1="536.349" x2="517.251" y2="536.349"/>
+<g>
+	<g>
+		<polyline fill="none" stroke="#5D5D5D" stroke-miterlimit="10" points="294.37,406.148 294.37,413.45 288.433,413.45 		"/>
+		
+			<line fill="none" stroke="#5D5D5D" stroke-miterlimit="10" stroke-dasharray="11.913,11.913" x1="276.645" y1="413.45" x2="23.201" y2="413.45"/>
+		<polyline fill="none" stroke="#5D5D5D" stroke-miterlimit="10" points="17.307,413.45 11.37,413.45 11.37,406.148 		"/>
+		<polyline fill="none" stroke="#5D5D5D" stroke-miterlimit="10" stroke-dasharray="11.3529,11.3529" points="11.37,392.332 
+			11.37,301.494 11.37,178.192 		"/>
+		<polyline fill="none" stroke="#5D5D5D" stroke-miterlimit="10" points="11.37,171.284 11.37,163.983 17.307,163.983 		"/>
+		
+			<line fill="none" stroke="#5D5D5D" stroke-miterlimit="10" stroke-dasharray="11.913,11.913" x1="29.095" y1="163.983" x2="282.54" y2="163.983"/>
+		<polyline fill="none" stroke="#5D5D5D" stroke-miterlimit="10" points="288.433,163.983 294.37,163.983 294.37,171.284 		"/>
+		
+			<line fill="none" stroke="#5D5D5D" stroke-miterlimit="10" stroke-dasharray="11.3529,11.3529" x1="294.37" y1="185.099" x2="294.37" y2="399.241"/>
+	</g>
+</g>
+<polyline fill="none" stroke="#5D5D5D" stroke-width="2" stroke-miterlimit="10" points="272.37,276.983 8.37,276.983 8.37,282.983 
+	272.37,282.983 "/>
+<radialGradient id="SVGID_1_" cx="104.0044" cy="627.1091" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#4A2D8D"/>
+</radialGradient>
+<circle fill="url(#SVGID_1_)" stroke="#4A2D8D" stroke-miterlimit="10" cx="104.044" cy="213.935" r="14.5"/>
+<radialGradient id="SVGID_2_" cx="174.1152" cy="629.1599" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#4A2D8D"/>
+</radialGradient>
+<circle fill="url(#SVGID_2_)" stroke="#4A2D8D" stroke-miterlimit="10" cx="174.155" cy="211.885" r="14.5"/>
+<radialGradient id="SVGID_3_" cx="47.8486" cy="586.865" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#4A2D8D"/>
+</radialGradient>
+<circle fill="url(#SVGID_3_)" stroke="#4A2D8D" stroke-miterlimit="10" cx="47.889" cy="254.179" r="14.5"/>
+<radialGradient id="SVGID_4_" cx="101.2852" cy="565.781" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#4A2D8D"/>
+</radialGradient>
+<circle fill="url(#SVGID_4_)" stroke="#4A2D8D" stroke-miterlimit="10" cx="101.325" cy="275.263" r="14.5"/>
+<radialGradient id="SVGID_5_" cx="171.1172" cy="565.781" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#4A2D8D"/>
+</radialGradient>
+<circle fill="url(#SVGID_5_)" stroke="#4A2D8D" stroke-miterlimit="10" cx="171.157" cy="275.263" r="14.5"/>
+<radialGradient id="SVGID_6_" cx="234.4043" cy="565.781" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#4A2D8D"/>
+</radialGradient>
+<circle fill="url(#SVGID_6_)" stroke="#4A2D8D" stroke-miterlimit="10" cx="234.444" cy="275.263" r="14.5"/>
+<radialGradient id="SVGID_7_" cx="154.9043" cy="487.656" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#4A2D8D"/>
+</radialGradient>
+<circle fill="url(#SVGID_7_)" stroke="#4A2D8D" stroke-miterlimit="10" cx="154.944" cy="353.388" r="14.5"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="88.908" y1="226.385" x2="60.104" y2="242.573"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="84.994" y1="219.311" x2="92.821" y2="233.37"/>
+<g id="XMLID_1_">
+	<line fill="none" x1="103.043" y1="230.175" x2="103.376" y2="259.178"/>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="103.043" y1="230.175" x2="103.291" y2="251.669"/>
+		<g>
+			<polygon points="103.376,259.178 99.189,248.648 103.284,251.107 107.319,248.542 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_2_">
+	<line fill="none" x1="170.824" y1="228.435" x2="171.157" y2="255.7"/>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="170.824" y1="228.435" x2="171.071" y2="248.64"/>
+		<g>
+			<polygon points="171.157,255.7 166.971,245.801 171.064,248.112 175.1,245.702 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_5_">
+	<line fill="none" x1="100.312" y1="291.799" x2="96.185" y2="364.121"/>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="100.312" y1="291.799" x2="96.61" y2="356.667"/>
+		<g>
+			<polygon points="96.185,364.121 92.725,353.388 96.641,356.111 100.842,353.847 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_8_">
+	<line fill="none" x1="244.158" y1="289.763" x2="253.289" y2="315.456"/>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="244.158" y1="289.763" x2="250.925" y2="308.802"/>
+		<g>
+			<polygon points="253.289,315.456 246.127,307.443 250.748,308.305 253.787,304.719 			"/>
+		</g>
+	</g>
+</g>
+<radialGradient id="SVGID_8_" cx="203.4526" cy="516.8113" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#D6BE17"/>
+</radialGradient>
+<circle fill="url(#SVGID_8_)" stroke="#D6BE17" stroke-miterlimit="10" cx="203.493" cy="324.233" r="14.5"/>
+<radialGradient id="SVGID_9_" cx="258.6191" cy="509.7625" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#FFC35F"/>
+</radialGradient>
+<circle fill="url(#SVGID_9_)" stroke="#FFC35F" stroke-miterlimit="10" cx="258.659" cy="331.282" r="14.5"/>
+<radialGradient id="SVGID_10_" cx="91.1519" cy="456.3035" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.5581" style="stop-color:#FBFF7F"/>
+</radialGradient>
+<circle fill="url(#SVGID_10_)" stroke="#FBFF7F" stroke-miterlimit="10" cx="91.192" cy="384.741" r="14.5"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="184.323" y1="326.969" x2="193.663" y2="338.996"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="190.115" y1="332.982" x2="172.773" y2="344.795"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="111.427" y1="384.411" x2="103.211" y2="368.972"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="108.749" y1="374.993" x2="135.105" y2="362.951"/>
+<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="11.914" y1="642.445" x2="340.14" y2="642.445"/>
+<radialGradient id="SVGID_11_" cx="241.5918" cy="369.3328" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#FFC35F"/>
+</radialGradient>
+<circle fill="url(#SVGID_11_)" stroke="#FFC35F" stroke-miterlimit="10" cx="241.632" cy="471.712" r="14.5"/>
+<radialGradient id="SVGID_12_" cx="96.5698" cy="375.407" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7785" style="stop-color:#D6BE17"/>
+</radialGradient>
+<circle fill="url(#SVGID_12_)" stroke="#D6BE17" stroke-miterlimit="10" cx="96.61" cy="465.637" r="14.5"/>
+<rect x="295.475" y="621.445" fill="#003CBF" stroke="#3D007F" stroke-miterlimit="10" width="49.037" height="22.736"/>
+<radialGradient id="SVGID_13_" cx="188.6118" cy="360.907" r="14.5" gradientTransform="matrix(1 0 0 -1 0.04 841.0444)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.5581" style="stop-color:#FBFF7F"/>
+</radialGradient>
+<circle fill="url(#SVGID_13_)" stroke="#FBFF7F" stroke-miterlimit="10" cx="188.652" cy="480.137" r="14.5"/>
+<rect x="42.426" y="621.445" fill="#FF5E15" stroke="#FF5E15" stroke-miterlimit="10" width="129.787" height="25.614"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="291.402" y1="640.023" x2="291.958" y2="610.832"/>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="291.958" y1="610.82" x2="317.942" y2="610.82"/>
+		<g>
+			<path d="M324.974,610.82c-3.309,1.762-7.415,4.768-9.961,7.954l2.005-7.954l-2.005-7.953
+				C317.559,606.052,321.666,609.058,324.974,610.82z"/>
+		</g>
+	</g>
+</g>
+<radialGradient id="SVGID_14_" cx="217.9927" cy="540.3494" r="14.5" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7742" style="stop-color:#B400BF"/>
+</radialGradient>
+<radialGradient id="SVGID_15_" cx="217.9927" cy="540.3494" r="15" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#B400BF"/>
+</radialGradient>
+<circle fill="url(#SVGID_14_)" stroke="url(#SVGID_15_)" stroke-miterlimit="10" cx="217.993" cy="540.349" r="14.5"/>
+<text transform="matrix(1.0364 0 0 1 82.3589 153.9539)" fill="#FF5E15" font-family="'ArialMT'" font-size="27.8736">Pathway</text>
+<text transform="matrix(1.0364 0 0 1 82.3589 153.9539)" fill="none" stroke="#FF5E15" stroke-width="2" stroke-miterlimit="10" font-family="'ArialMT'" font-size="27.8736">Pathway</text>
+<g id="XMLID_3_">
+	<line fill="none" x1="180.503" y1="287.679" x2="192.694" y2="312.069"/>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="180.503" y1="287.679" x2="189.538" y2="305.753"/>
+		<g>
+			<polygon points="192.694,312.069 184.61,304.988 189.301,305.281 191.881,301.351 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_4_">
+	<line fill="none" x1="260.119" y1="344.426" x2="245.184" y2="454.75"/>
+	<g>
+		
+			<line fill="none" stroke="#FFC35F" stroke-width="3" stroke-miterlimit="10" x1="260.119" y1="344.426" x2="247.078" y2="440.756"/>
+		<g>
+			<polygon fill="#FFC35F" points="245.184,454.75 239.794,433.939 247.219,439.709 255.909,436.121 			"/>
+		</g>
+	</g>
+</g>
+<radialGradient id="SVGID_16_" cx="91.1919" cy="536.3494" r="14.5" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7742" style="stop-color:#FF2A4E"/>
+</radialGradient>
+<circle fill="url(#SVGID_16_)" stroke="#FF2A4E" stroke-miterlimit="10" cx="91.192" cy="536.349" r="14.5"/>
+<radialGradient id="SVGID_17_" cx="159.6519" cy="540.3494" r="14.5" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7742" style="stop-color:#003CBF"/>
+</radialGradient>
+<circle fill="url(#SVGID_17_)" stroke="#003CBF" stroke-miterlimit="10" cx="159.652" cy="540.349" r="14.5"/>
+<g id="XMLID_6_">
+	<line fill="#D6BE17" stroke="#D6BE17" stroke-miterlimit="10" x1="201.728" y1="338.654" x2="108.956" y2="449.018"/>
+	<g>
+		
+			<line fill="#D6BE17" stroke="#D6BE17" stroke-width="3" stroke-miterlimit="10" x1="201.728" y1="338.654" x2="120.723" y2="435.019"/>
+		<g>
+			<polygon fill="#D6BE17" stroke="#D6BE17" stroke-miterlimit="10" points="108.956,449.018 118.057,426.635 121.604,433.972 
+				133.017,431.948 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_7_">
+	<line fill="#FBFF7F" stroke="#FBFF7F" stroke-miterlimit="10" x1="99.639" y1="391.143" x2="172.773" y2="465.637"/>
+	<g>
+		
+			<line fill="#FBFF7F" stroke="#FBFF7F" stroke-width="3" stroke-miterlimit="10" x1="99.639" y1="391.143" x2="163.496" y2="456.189"/>
+		<g>
+			<polygon fill="#FBFF7F" stroke="#FBFF7F" stroke-miterlimit="10" points="172.773,465.637 152.9,457.419 162.802,455.482 
+				166.5,447.23 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_9_">
+	<line fill="#FF2A4E" stroke="#FF2A4E" stroke-miterlimit="10" x1="90.641" y1="526.063" x2="96.021" y2="487.101"/>
+	<g>
+		
+			<line fill="#FF2A4E" stroke="#FF2A4E" stroke-width="2" stroke-miterlimit="10" x1="90.641" y1="526.063" x2="94.627" y2="497.189"/>
+		<g>
+			<polygon fill="#FF2A4E" stroke="#FF2A4E" stroke-miterlimit="10" points="96.021,487.101 98.089,501.839 94.523,497.944 
+				90.026,500.798 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_10_">
+	<line fill="#003CBF" stroke="#003CBF" stroke-miterlimit="10" x1="160.4" y1="530.674" x2="177.027" y2="495.03"/>
+	<g>
+		
+			<line fill="#003CBF" stroke="#003CBF" stroke-width="2" stroke-miterlimit="10" x1="160.4" y1="530.674" x2="172.722" y2="504.259"/>
+		<g>
+			<polygon fill="#003CBF" stroke="#003CBF" stroke-miterlimit="10" points="177.027,495.03 174.659,509.722 172.4,504.949 
+				167.261,506.35 			"/>
+		</g>
+	</g>
+</g>
+<g id="XMLID_11_">
+	<line fill="#B400BF" stroke="#B400BF" stroke-miterlimit="10" x1="223.61" y1="527.545" x2="240.238" y2="491.901"/>
+	<g>
+		
+			<line fill="#B400BF" stroke="#B400BF" stroke-width="2" stroke-miterlimit="10" x1="223.61" y1="527.545" x2="235.932" y2="501.13"/>
+		<g>
+			<polygon fill="#B400BF" stroke="#B400BF" stroke-miterlimit="10" points="240.238,491.901 237.87,506.594 235.61,501.82 
+				230.471,503.221 			"/>
+		</g>
+	</g>
+</g>
+<use xlink:href="#箭头_3"  width="23.184" height="21.529" x="-11.592" y="-10.765" transform="matrix(-0.0206 0.6799 -0.5318 -0.0104 62.1504 608.2292)" overflow="visible"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="83.521,550.522 78.474,554.068 
+	74.896,558.781 71.277,566.219 68.631,573.391 66.91,579.613 65.856,585.233 64.809,592.515 63.549,600.941 62.389,616.111 "/>
+<use xlink:href="#箭头_3"  width="23.184" height="21.529" x="-11.592" y="-10.765" transform="matrix(-0.5347 0.3811 0.474 0.6651 160.2852 602.8494)" overflow="visible"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="212.001,558.948 209.885,564.052 
+	206.373,568.698 200.37,574.652 194.392,579.817 189.081,583.905 184.167,587.258 177.731,591.383 170.295,596.19 156.657,604.089 
+	"/>
+<use xlink:href="#箭头_3"  width="23.184" height="21.529" x="-11.592" y="-10.765" transform="matrix(-0.1059 0.7069 0.5618 0.3047 122.7539 604.821)" overflow="visible"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="145.709,548.924 141.173,552.925 
+	137.792,557.424 134.17,563.999 131.39,570.12 129.464,575.276 128.149,579.807 126.712,585.593 125.01,592.3 122.88,604.089 "/>
+<radialGradient id="SVGID_18_" cx="366.3413" cy="576.5066" r="14.5" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7742" style="stop-color:#003CBF"/>
+</radialGradient>
+<circle fill="url(#SVGID_18_)" stroke="#003CBF" stroke-miterlimit="10" cx="366.341" cy="576.507" r="14.5"/>
+<rect x="425.104" y="524.981" fill="#C9CACA" stroke="#000000" stroke-miterlimit="10" width="49.037" height="22.736"/>
+<rect x="492.733" y="524.981" fill="#003CBF" stroke="#3D007F" stroke-miterlimit="10" width="49.037" height="22.736"/>
+<rect x="425.104" y="621.445" fill="#C9CACA" stroke="#000000" stroke-miterlimit="10" width="49.037" height="22.736"/>
+<rect x="425.104" y="571.948" fill="#C9CACA" stroke="#000000" stroke-miterlimit="10" width="49.037" height="22.736"/>
+<rect x="492.733" y="621.445" fill="#B400BF" stroke="#3D007F" stroke-miterlimit="10" width="49.037" height="22.736"/>
+<rect x="492.733" y="570.15" fill="#FF2A4E" stroke="#3D007F" stroke-miterlimit="10" width="49.037" height="22.736"/>
+<line fill="#C9CACA" stroke="#003CBF" stroke-width="7" stroke-miterlimit="10" x1="435.473" y1="524.981" x2="435.473" y2="547.718"/>
+<line fill="#C9CACA" stroke="#003CBF" stroke-width="7" stroke-miterlimit="10" x1="464.14" y1="571.948" x2="464.14" y2="594.684"/>
+<line fill="#C9CACA" stroke="#003CBF" stroke-width="7" stroke-miterlimit="10" x1="435.473" y1="621.445" x2="435.473" y2="644.181"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M335.74,617.028c0.026-1.79-0.251-3.631-0.366-5.422
+	c-0.139-2.146-0.251-4.305-0.142-6.47c0.076-1.523,0.212-2.993,0.533-4.474c0.298-1.375,0.425-2.833,0.789-4.187
+	c0.51-1.896,1.233-3.655,1.752-5.561c0.186-0.672,0.296-1.391,0.61-1.987c0.259-0.493,0.492-0.862,0.671-1.456
+	c0.276-0.916,0.778-1.257,1.283-1.986c0.238-0.345,0.521-0.767,0.822-1.093c0.313-0.34,0.743-0.452,1.106-0.699
+	c0.417-0.283,0.714-0.717,1.118-1.025c0.426-0.327,0.808-0.726,1.174-1.15"/>
+<use xlink:href="#箭头_3"  width="23.184" height="21.529" x="-11.592" y="-10.765" transform="matrix(0.4126 -0.2295 -0.2619 -0.4709 344.5347 581.946)" overflow="visible"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M377.566,562.184
+	c5.539-7.603,10.876-18.749,19.886-22.102c2.934-1.092,5.275-2.495,8.416-3.098c1.961-0.376,4.807-0.365,6.473-1.322"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M386.661,579.241
+	c2.766-0.18,5.803,0.031,8.528,0.585c2.688,0.546,5.828,0.603,8.716,1.073c2.369,0.386,4.723,0.394,7.1,0.619
+	c1.752,0.166,6.414-0.143,7.728,1.1"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M375.477,594.684
+	c0.72,3.889,3.306,9.088,5.502,11.888c2.916,3.715,5.767,6.417,8.941,9.624c3.992,4.03,8.001,7.822,12.712,9.919
+	c2.99,1.332,6.729,3.434,9.94,3.737"/>
+<use xlink:href="#箭头_3"  width="23.184" height="21.529" x="-11.592" y="-10.765" transform="matrix(0.4662 -0.0747 -0.0853 -0.5321 412.7993 535.4832)" overflow="visible"/>
+<use xlink:href="#箭头_3"  width="23.184" height="21.529" x="-11.592" y="-10.765" transform="matrix(0.4714 0.0262 0.0299 -0.538 417.4468 581.823)" overflow="visible"/>
+<use xlink:href="#箭头_3"  width="23.184" height="21.529" x="-11.592" y="-10.765" transform="matrix(0.4654 0.0795 0.0907 -0.5312 411.8208 630.157)" overflow="visible"/>
+<line fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="218.324" y1="282.983" x2="190.115" y2="282.983"/>
+<line fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="189.536" y1="275.575" x2="189.54" y2="290.391"/>
+<text transform="matrix(1.0097 0 0 1 304.9497 640.0232)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="15.6753">TF1</text>
+<text transform="matrix(1.0097 0 0 1 502.9497 542.0769)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="15.6753">TF1</text>
+<text transform="matrix(1.0097 0 0 1 506.9497 589.6755)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="15.6753">TF2</text>
+<text transform="matrix(1.0097 0 0 1 506.9497 640.0232)" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="15.6753">TF3</text>
+<text transform="matrix(1.1548 0 0 1 133.0166 524.9812)" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'DengXian-Light'" font-size="17.5682">TF1</text>
+<text transform="matrix(1.1548 0 0 1 193.6626 525.8494)" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'DengXian-Light'" font-size="17.5682">TF3</text>
+<text transform="matrix(1.1548 0 0 1 55.0166 528.8894)" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'DengXian-Light'" font-size="17.5682">TF2</text>
+<text transform="matrix(1.1548 0 0 1 340.1392 558.948)" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'DengXian-Light'" font-size="17.5682">TF1</text>
+</svg>
